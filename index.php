@@ -1,4 +1,8 @@
-<?php
-
-echo "<h1>Hello, Northeast PHP";
-echo "<h1><br>Hello, Northeast PHP";
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello Spectrami</p>'; ?> 
+ </body>
+</html>
